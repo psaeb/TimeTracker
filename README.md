@@ -1,8 +1,11 @@
 # Time Tracking App
 
+- [Demo]()
+
+
 ## Description
 
-An aesthetically pleasing time tracking app made with JavaScript and NodeJS. With data managing capabilities.
+A time tracking app with data managing capabilities such as erasig data, adding data, and storing data even when the page is closed/refreshed. 
 
 ## Installation
 
