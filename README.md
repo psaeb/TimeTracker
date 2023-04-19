@@ -1,4 +1,4 @@
-# Time Tracking App
+## Time Tracking App
 
 - [Demo]()
 
