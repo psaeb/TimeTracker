@@ -1,6 +1,6 @@
 ## Time Tracking App
 
-- [Demo]()
+[Demo]()
 
 
 ## Description
