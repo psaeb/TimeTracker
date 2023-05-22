@@ -5,7 +5,7 @@
 
 ## Description
 
-A time tracking app with data managing capabilities such as erasing data, adding data, and storing data even when the page is closed/refreshed. 
+A time tracking app with data managing capabilities such as erasing data, adding data, and storing data even when the page is closed/refreshed made with NodeJS, JavaScript, and the React libary.
 
 ## Installation
 
